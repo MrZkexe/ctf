@@ -11,6 +11,6 @@
 <br><center><h1>redes</h1></center><br>
 <div align="center">
 	<a href="https://discord.gg/ashQnyfhH2" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=discord&color=lightgrey&style=for-the-badge&logo=discord"></a>
-	<a href="https://is.gd/ZzxIXM" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=facebook&color=lightgrey&style=for-the-badge&logo=facebook"></a>
-	<a href="https://www.youtube.com/c/zksoqueexecut%C3%A1vel" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=youtube&color=lightgrey&style=for-the-badge&logo=youtube"></a>
+	<a href="https://is.gd/ZzxIXM" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=facebook&color=orange&style=for-the-badge&logo=facebook"></a>
+	<a href="https://www.youtube.com/c/zksoqueexecut%C3%A1vel" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=youtube&color=blueviolet&style=for-the-badge&logo=youtube"></a>
 </div>
