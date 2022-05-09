@@ -1,6 +1,3 @@
-Desafios ctf
-Alguns desafios hackers que criei para o meu servidor do discord.
-<br><br>
 <center>
   <h1>desafios ctf</h1>
   <h3>Alguns desafios hackers que criei para o meu servidor do discord.</h3>
